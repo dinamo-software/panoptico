@@ -2,7 +2,9 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <Version>0.0.1</Version>
+    <Version>0.0.4</Version>
+    <AssemblyVersion>0.0.4.0</AssemblyVersion>
+    <UserSecretsId>995da37f-48ba-4d0e-965f-207dfda91b5e</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
